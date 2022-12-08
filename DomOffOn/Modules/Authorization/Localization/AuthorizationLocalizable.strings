@@ -1,0 +1,6 @@
+"login.title" = "ДомOffOn";
+"login.title.colorSubPart" = "On";
+"login.phoneNumber.title" = "Ведите номер телефона";
+"login.phoneNumber.error" = "Номер телефона должен содержать 10 цифр и начинаться с +79, например +7 912 345-67-89";
+"login.policy" = "Нажимая кнопку \"Войти\" Вы соглашаетесь с условиями [политикой конфиденциальности](https://example.com)";
+"login.button" = "Войти";
